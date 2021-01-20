@@ -2116,9 +2116,9 @@ ignore-walk@^3.0.1:
   dependencies:
     minimatch "^3.0.4"
 
-immer@^1.10.5:
-  version "1.10.5"
-  resolved "https://registry.yarnpkg.com/immer/-/immer-1.10.5.tgz#a4fd1d12587a166da769763f881c0039fa61c557"
+immer@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-8.0.1.tgz#9c73db683e2b3975c424fb0572af5889877ae656"
 
 immutable@^3.8.1:
   version "3.8.2"
