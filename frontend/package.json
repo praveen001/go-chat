@@ -14,7 +14,7 @@
     "classnames": "^2.2.6",
     "connected-react-router": "^6.2.1",
     "history": "^4.7.2",
-    "immer": "^1.10.5",
+    "immer": "^9.0.6",
     "query-string": "^6.2.0",
     "react": "16.7.0-alpha.2",
     "react-dom": "16.7.0-alpha.2",
